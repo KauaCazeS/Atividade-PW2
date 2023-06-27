@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "25cf95c9-d5e0-49b8-a85b-36f01b38b1e2",
+		"name": "Atividade_PW2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26336161"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
